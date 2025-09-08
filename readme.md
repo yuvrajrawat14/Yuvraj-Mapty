@@ -1,4 +1,8 @@
-## 🗺️ Mapty Workout Tracker <a href="https://yuvrajrawat14.github.io/Yuvraj-Mapty/" target="_blank" style="display:inline-block;padding:0.5em 1em;background:#3498db;color:#fff;border-radius:4px;text-decoration:none;font-weight:bold;">Try it live!</a>
+## 🗺️ Mapty Workout Tracker
+
+<div align="right">
+  <a href="https://yuvrajrawat14.github.io/Yuvraj-Mapty/" target="_blank" style="display:inline-block;padding:0.5em 1em;background:rgb(109, 146, 37);color:#fff;border-radius:4px;text-decoration:none;font-weight:bold;border:black">Try it live!</a>
+</div>
 
 Welcome to Mapty, a browser-based application that allows you to log and visualize your running and cycling workouts on an interactive map. Built with pure JavaScript, it leverages your location to provide a seamless and personal workout tracking experience.
 
