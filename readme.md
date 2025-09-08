@@ -1,6 +1,6 @@
 ## 🗺️ Mapty Workout Tracker
 
-<div align="right">
+<div align="right" style="display:inline">
   <a href="https://yuvrajrawat14.github.io/Yuvraj-Mapty/" target="_blank" style="display:inline-block;padding:0.5em 1em;background:rgb(109, 146, 37);color:#fff;border-radius:4px;text-decoration:none;font-weight:bold;border:black">Try it live!</a>
 </div>
 
