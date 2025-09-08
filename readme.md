@@ -42,4 +42,4 @@ Can you take risks or play it safe? 🏆
 
 ## Architecture
 
-![Mapty Architecture](Mapty__SS2.png)
+![Mapty Architecture](Mapty_SS2.png)
