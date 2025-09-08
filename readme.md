@@ -38,7 +38,7 @@ Can you take risks or play it safe? 🏆
 
 ## Flowchart
 
-![Mapty Flowchart](https://www.canva.com/design/DAGxSg5sAuU/7gakzNN_cfWSAMCHJOAzlw/view?utm_content=DAGxSg5sAuU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h03a0a4dc92)
+![Mapty Flowchart](https://www.canva.com/design/DAGxSg5sAuU/b9y8zbvmR8s6neOnXFFJdg/view)
 
 ## Architecture
 
