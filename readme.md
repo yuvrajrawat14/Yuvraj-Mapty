@@ -1,4 +1,4 @@
-## 🐷 🗺️ Mapty Workout Tracker (try it live!)((https://yuvrajrawat14.github.io/PigGame/))
+## 🗺️ Mapty Workout Tracker (try it live!)((https://yuvrajrawat14.github.io/PigGame/))
 
 Welcome to Mapty, a browser-based application that allows you to log and visualize your running and cycling workouts on an interactive map. Built with pure JavaScript, it leverages your location to provide a seamless and personal workout tracking experience.
 
@@ -36,6 +36,10 @@ Can you take risks or play it safe? 🏆
 - **Leaflet.js**: An open-source library for creating interactive maps.
 - **Leaflet Draw**: A plugin for Leaflet that enables the drawing of shapes and lines.
 
+## Flowchart
 
+![Mapty Flowchart](https://www.canva.com/design/DAGxSg5sAuU/7gakzNN_cfWSAMCHJOAzlw/view?utm_content=DAGxSg5sAuU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h03a0a4dc92)
 
+## Architecture
 
+![Mapty Architecture](https://www.canva.com/design/DAGxVIUDwvA/3JhdoeZsZL88WiKd5nGOVg/view?utm_content=DAGxVIUDwvA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7136ba13f6)
